@@ -1,7 +1,7 @@
 # Server Brick/Overload Simulator
 
 ## What will this do?
-Threading by simulating server overload. It continuously spawns threads to mimic an overloaded server
+simulates a server overload by continuously spawning threads
 
 ## Note
 This script does not actually brick or damage servers
