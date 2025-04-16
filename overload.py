@@ -1,6 +1,5 @@
 from os import system
-import time
-import threading
+import time, threading
 
 def thread_function(name):
     while True:
